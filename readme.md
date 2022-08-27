@@ -43,7 +43,7 @@ Push Pull Legs Routine. Will probably modify
 | Wrist Curls                      | 8-12              | 1                  | Done   |
 
 
-#Rest Day
+# Rest Day
 
 ## Push Day 2 (Chest, Shoulders, Triceps)
 
@@ -86,4 +86,4 @@ Push Pull Legs Routine. Will probably modify
 | Reverse Wrist Curls              | 8-12              | 1                  | 60 sec |
 | Wrist Curls                      | 8-12              | 1                  | Done   |
 
-#Rest Day
+# Rest Day
