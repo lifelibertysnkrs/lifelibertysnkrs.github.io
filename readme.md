@@ -14,7 +14,7 @@ Push Pull Legs Routine. Will probably modify
 | Lateral Raises                    | 8-12              | 3                  | Done   |
 
 
-## Pull Day (Back, Biceps, Calves)
+## Pull Day (Back, Biceps, Rear Delts)
 
 | Exercise                           | Reps        | Sets               | Rest   |
 | ---------------------------------- | ----------- | ------------------ | ------ |
