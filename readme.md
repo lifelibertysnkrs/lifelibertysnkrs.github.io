@@ -2,81 +2,39 @@
 
 Push Pull Legs Routine. Will probably modify
 
-## Push Day 1 (Chest, Shoulders, Triceps, Forearms)
+## Push Day (Chest, Shoulders, Triceps, Forearms)
 
 | Exercise                         | Reps              | Sets               | Rest   |
 | -------------------------------- | ----------------- | ------------------ | ------ |
-| Dumbell Incline Smith Bench      | 8-12              | 2                  | 60 sec |
-| Dumbell Flat Bench               | 8-12              | 2                  | 60 sec 
-| Narrow-Grip Flat Bench           | 8-12              | 2                  | 60 sec |
-| Tricep Pull Downs      		   | 8-12              | 2                  | 60 sec |
-| Dumbbell Military Press          | 8-12              | 2                  | 60 sec |
-| Front Deltoid Dumbbell Raise     | 8-12              | 2                  | 90 sec |
-| Tricep Extensions                | 8-12              | 2                  | 60 sec |
-| Side Deltoid                     | 8-12              | 3                  | Done   |
+| Dumbell Incline Smith Bench      | 8-12              | 3                  | 60 sec |
+| Dumbell Flat Bench               | 8-12              | 3                  | 60 sec 
+| Tricep Cable Pull Downs      		   | 8-12              | 3                  | 60 sec |
+| Dumbbell Military Press          | 8-12              | 3                  | 60 sec |
+| Dumbbell Skullcrushers                | 8-12              | 3                  | 60 sec |
+| Lateral Raises                    | 8-12              | 3                  | Done   |
 
 
-## Pull Day 1 (Back, Biceps, Calves)
+## Pull Day (Back, Biceps, Calves)
 
 | Exercise                           | Reps        | Sets               | Rest   |
 | ---------------------------------- | ----------- | ------------------ | ------ |
-| Pull-Ups                           | 8-12        | 2                  | 90 sec |
-| Dumbbell Bent-Over Rows            | 8-12        | 2                  | 90 sec |
+| Pull-Ups                           | 8-12        | 3                  | 90 sec |
 | Hammer Curls			             | 8-12        | 3                  | 60 sec |
 | Wide-Grip Palm-Forward Pulldown    | 8-12        | 2                  | 90 sec |
-| Preacher Curls		             | 8-12        | 3                  | 60 sec |
+| Cable Bicep Curls		             | 8-12        | 3                  | 60 sec |
 | Seated Cable Row                   | 8-12        | 2                  | 90 sec |
-| Seated Calf Raises                 | 8-15        | 3                  | 60 sec |
 
 
-## Leg Day 1 (Quads, Glutes, Hamstrings, Forearms)
+
+## Leg Day (Quads, Glutes, Hamstrings, Forearms)
 
 | Exercise                         | Reps              | Sets               | Rest   |
 | -------------------------------- | ----------------- | ------------------ | ------ |
 | Feet Forward Smith Machine Squat | 8-12              | 3                  | 90 sec |
-| Seated Leg Curl                  | 8-12              | 2                  | 60 sec |
-| Leg Extension                    | 8-12              | 2                  | 60 sec |
+| Seated Leg Curl                  | 8-12              | 3                  | 60 sec |
+| Leg Extension                    | 8-12              | 3                  | 60 sec |
 | Wide Foot Position Leg Press     | 8-12              | 3                  | 90 sec |
-| Standing Calf Raises             | 8-15              | 4                  | 60 sec |
+
 
 # Rest Day
 
-## Push Day 2 (Chest, Shoulders, Triceps)
-
-| Exercise                         | Reps              | Sets               | Rest   |
-| -------------------------------- | ----------------- | ------------------ | ------ |
-| Dumbbell Military Press          | 8-12              | 2                  | 60 sec |
-| Front Deltoid Dumbbell Raise     | 8-12              | 2                  | 90 sec |
-| Dumbell Incline Smith Bench      | 8-12              | 2                  | 60 sec |
-| Dumbell Flat Bench               | 8-12              | 2                  | 60 sec 
-| Cable Flies                      | 8-12              | 2                  | 60 sec |
-| Tricep Pull Downs                | 8-12              | 2                  | 60 sec |
-| Tricep Extensions                | 8-12              | 2                  | 60 sec |
-| Side Deltoid                     | 8-12              | 3                  | Done   |
-
-
-## Pull Day 2 (Back, Biceps, Calves)
-
-| Exercise                           | Reps        | Sets               | Rest   |
-| ---------------------------------- | ----------- | ------------------ | ------ |
-| Pull-Ups                           | 8-12        | 2                  | 90 sec |
-| Dumbbell Bent-Over Rows            | 8-12        | 2                  | 90 sec |
-| Hammer Curls			             | 8-12        | 3                  | 90 sec |
-| Wide-Grip Palm-Forward Pulldown    | 8-12        | 2                  | 90 sec |
-| Preacher Curls		             | 8-12        | 3                  | 90 sec |
-| Seated Cable Row                   | 8-12        | 2                  | 90 sec |
-| Single Arm Cable Curls             | 10+         | 1                  | 90 sec |
-| Standing Calf Raises               | 8-12        | 3                  | 60 sec |
-
-
-## Leg Day 2 (Quads, Glutes, Hamstrings, Forearms)
-
-| Exercise                         | Reps              | Sets               | Rest   |
-| -------------------------------- | ----------------- | ------------------ | ------ |
-| Feet Forward Smith Machine Squat | 8-12              | 3                  | 90 sec |
-| Seated Leg Curl                  | 8-12              | 2                  | 60 sec |
-| Leg Extension                    | 8-12              | 2                  | 60 sec |
-| Wide Foot Position Leg Press     | 8-12              | 3                  | 90 sec |
-| Standing Calf Raises             | 8-15              | 4                  | 60 sec |
-
-# Rest Day
